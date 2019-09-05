@@ -12,6 +12,9 @@ https://www.acmicpc.net/problem/11726
 간단한 소인수분해
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq
 
+네트워크
+https://programmers.co.kr/learn/courses/30/lessons/43162
+
 다양성 측정
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG&categoryId=AWq40NEKLyADFARG&categoryType=CODE
 
