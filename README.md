@@ -18,6 +18,9 @@ https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId
 단어의 개수
 https://www.acmicpc.net/problem/1152
 
+멀리 뛰기
+https://programmers.co.kr/learn/courses/30/lessons/12914
+
 보행자 천국
 https://programmers.co.kr/learn/courses/30/lessons/1832?language=cpp
 
