@@ -48,6 +48,9 @@ https://greenapple16.tistory.com/16?category=811354
 카카오프렌즈 컬러링 북
 https://programmers.co.kr/learn/courses/30/lessons/1829
 
+카펫
+https://programmers.co.kr/learn/courses/30/lessons/42842
+
 타일 장식물
 https://programmers.co.kr/learn/courses/30/lessons/43104
 
