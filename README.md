@@ -12,6 +12,9 @@ https://www.acmicpc.net/problem/11726
 간단한 소인수분해
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq
 
+기능개발
+https://programmers.co.kr/learn/courses/30/lessons/42586
+
 네트워크
 https://programmers.co.kr/learn/courses/30/lessons/43162
 
