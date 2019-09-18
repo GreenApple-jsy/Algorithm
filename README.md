@@ -24,6 +24,9 @@ https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId
 단어의 개수
 https://www.acmicpc.net/problem/1152
 
+등굣길
+https://programmers.co.kr/learn/courses/30/lessons/42898
+
 멀리 뛰기
 https://programmers.co.kr/learn/courses/30/lessons/12914
 
