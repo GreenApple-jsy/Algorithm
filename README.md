@@ -45,6 +45,9 @@ https://www.acmicpc.net/problem/14888
 예산
 https://programmers.co.kr/learn/courses/30/lessons/43237
 
+입국심사
+https://programmers.co.kr/learn/courses/30/lessons/43238
+
 정수삼각형
 https://programmers.co.kr/learn/courses/30/lessons/43105
 
