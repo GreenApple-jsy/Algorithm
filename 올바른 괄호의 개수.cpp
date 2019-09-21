@@ -1,7 +1,6 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-
 using namespace std;
 
 int solution(int n) {
@@ -9,19 +8,19 @@ int solution(int n) {
 	int sum = 0;
 	vector <int> s;
 	for (int i = 0; i < n; i++) {
-		s.push_back(1); //¿Þ °ýÈ£ÀÇ °ª 1
-		s.push_back(-1); //¿À¸¥ °ýÈ£ÀÇ °ª 1
+		s.push_back(1); //ì™¼ ê´„í˜¸ì˜ ê°’ 1
+		s.push_back(-1); //ì˜¤ë¥¸ ê´„í˜¸ì˜ ê°’ 1
 	}
 	do {
 		sum = 0;
 		answer++;
 		for (int i = 0; i < 2*n; i++) {
 			sum += s[i];
-			if (sum < 0) { //ÇÑ ¹øÀÌ¶óµµ ¿À¸¥ °ýÈ£°¡ ¿Þ °ýÈ£º¸´Ù ¸¹¾ÆÁö¸é Æ²¸° °ýÈ£ Ç¥ÇöÀÌ´Ù
+			if (sum < 0) { //í•œ ë²ˆì´ë¼ë„ ì˜¤ë¥¸ ê´„í˜¸ê°€ ì™¼ ê´„í˜¸ë³´ë‹¤ ë§Žì•„ì§€ë©´ í‹€ë¦° ê´„í˜¸ í‘œí˜„ì´ë‹¤
 				answer--;
 				break;
 			}	
 		}
-	} while (next_permutation(s.begin(), s.end())); //¸¸µé ¼ö ÀÖ´Â °ýÈ£ Á¶ÇÕ
+	} while (next_permutation(s.begin(), s.end())); //ë§Œë“¤ ìˆ˜ ìžˆëŠ” ê´„í˜¸ ì¡°í•©
 	return answer;
 }
