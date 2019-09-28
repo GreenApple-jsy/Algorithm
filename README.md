@@ -12,6 +12,9 @@ https://www.acmicpc.net/problem/11726
 H-index
 https://programmers.co.kr/learn/courses/30/lessons/42747
 
+N으로 표현
+https://programmers.co.kr/learn/courses/30/lessons/42895
+
 간단한 소인수분해
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq
 
