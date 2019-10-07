@@ -48,6 +48,9 @@ https://www.acmicpc.net/problem/2798
 설탕 배달
 https://www.acmicpc.net/problem/2839
 
+야근 지수
+https://programmers.co.kr/learn/courses/30/lessons/12927
+
 연산자 끼워넣기
 https://www.acmicpc.net/problem/14888
 
