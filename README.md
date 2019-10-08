@@ -30,6 +30,9 @@ https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId
 단속카메라
 https://programmers.co.kr/learn/courses/30/lessons/42884
 
+단어 변환
+https://programmers.co.kr/learn/courses/30/lessons/43163
+
 단어의 개수
 https://www.acmicpc.net/problem/1152
 
