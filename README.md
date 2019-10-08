@@ -27,6 +27,9 @@ https://programmers.co.kr/learn/courses/30/lessons/43162
 다양성 측정
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG&categoryId=AWq40NEKLyADFARG&categoryType=CODE
 
+단속카메라
+https://programmers.co.kr/learn/courses/30/lessons/42884
+
 단어의 개수
 https://www.acmicpc.net/problem/1152
 
