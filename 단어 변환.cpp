@@ -5,7 +5,7 @@ using namespace std;
 int minCount;
 string targetS;
 
-bool diffcheck(string a, string b) { //¹®ÀÚ ÇÑ°³¸¸ ´Ù¸¥Áö Ã¼Å©
+bool diffcheck(string a, string b) { //ë¬¸ì í•œ ê°œë§Œ ë‹¤ë¥¸ì§€ ì²´í¬
 	int count = 0;
 	for (int i = 0; i < a.length(); i++) {
 		if (a[i] != b[i])
