@@ -75,6 +75,9 @@ https://programmers.co.kr/learn/courses/30/lessons/43238
 정수삼각형
 https://programmers.co.kr/learn/courses/30/lessons/43105
 
+줄 서는 방법
+https://programmers.co.kr/learn/courses/30/lessons/12936
+
 최소 차이 기점
 https://greenapple16.tistory.com/16?category=811354
 
