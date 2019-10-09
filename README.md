@@ -15,6 +15,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42747
 N으로 표현
 https://programmers.co.kr/learn/courses/30/lessons/42895
 
+가장 긴 팰린드롬
+https://programmers.co.kr/learn/courses/30/lessons/12904
+
 간단한 소인수분해
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq
 
