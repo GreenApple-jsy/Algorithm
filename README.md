@@ -1,6 +1,6 @@
 # Algorithm Practice
 문제 풀이
-https://greenapple16.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%26%20%EC%BD%94%EB%94%A9
+https://greenapple16.tistory.com/category/알고리즘%20·%20코딩
 
 # 문제 링크
 1,2,3 더하기
