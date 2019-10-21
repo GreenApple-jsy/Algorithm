@@ -6,27 +6,27 @@ using namespace std;
 
 vector<int> solution(int N, vector<int> stages) {
 	vector<int> answer;
-	vector <vector<double>> failure(N, vector<double>(2)); //½ÇÆĞÀ²,¹®Á¦¹øÈ£ ÀúÀå
-	int people = stages.size(); //»ç¿ëÀÚ ¼ö
+	vector <vector<double>> failure(N, vector<double>(2)); //ì‹¤íŒ¨ìœ¨,ë¬¸ì œë²ˆí˜¸ ì €ì¥
+	int people = stages.size(); //ì‚¬ìš©ì ìˆ˜
 	int current_index = 0; 
 	sort(stages.begin(), stages.end());
 	for (int i = 1; i <= N; i++) {
 		int count = 0;
-		int understage = current_index; //ÇØ´ç ½ºÅ×ÀÌÁö¿¡ µµ´Ş ¸øÇÑ »ç¶÷ ¼ö
+		int understage = current_index; //í•´ë‹¹ ìŠ¤í…Œì´ì§€ì— ë„ë‹¬ ëª»í•œ ì‚¬ëŒ ìˆ˜
 		while ((current_index < stages.size()) && (stages[current_index] <= i)) {
-			if (stages[current_index] == i) //ÇöÀç ÇØ´ç ½ºÅ×ÀÌÁöÀÎ »ç¿ëÀÚ
+			if (stages[current_index] == i) //í˜„ì¬ í•´ë‹¹ ìŠ¤í…Œì´ì§€ì¸ ì‚¬ìš©ì
 				count++;
 			current_index++;
 		}
-		if (people - understage == 0) //½ºÅ×ÀÌÁö¿¡ µµ´ŞÇÑ »ç¿ëÀÚ°¡ ¾ø´Â °æ¿ì ½ÇÆĞÀ²À» 0À¸·Î Ã³¸®
+		if (people - understage == 0) //ìŠ¤í…Œì´ì§€ì— ë„ë‹¬í•œ ì‚¬ìš©ìê°€ ì—†ëŠ” ê²½ìš° ì‹¤íŒ¨ìœ¨ì„ 0ìœ¼ë¡œ ì²˜ë¦¬
 			failure[i - 1][0] = 0;
 		else
-			failure[i - 1][0] = (double)count / (people - understage); //½ÇÆĞÀ² = ÇöÀç ÇØ´ç ½ºÅ×ÀÌÁöÀÎ »ç¿ëÀÚ / (ÀüÃ¼ »ç¿ëÀÚ ¼ö - ÇØ´ç ½ºÅ×ÀÌÁö¿¡ µµ´Ş ¸øÇÑ »ç¶÷ ¼ö)
+			failure[i - 1][0] = (double)count / (people - understage); //ì‹¤íŒ¨ìœ¨ = í˜„ì¬ í•´ë‹¹ ìŠ¤í…Œì´ì§€ì¸ ì‚¬ìš©ì / (ì „ì²´ ì‚¬ìš©ì ìˆ˜ - í•´ë‹¹ ìŠ¤í…Œì´ì§€ì— ë„ë‹¬ ëª»í•œ ì‚¬ëŒ ìˆ˜)
 		failure[i - 1][1] = i;
 	}
 	sort(failure.begin(), failure.end());
-	for (int i = failure.size() - 1; i >= 0; i--) { //½ÇÆĞÀ²À» ³»¸²Â÷¼øÀ¸·Î »ğÀÔ
-		if ((i != 0) && (failure[i][0] == failure[i - 1][0])) { //°°Àº ½ÇÆĞÀ²ÀÏ¶§ ¹®Á¦ ¿À¸§Â÷¼ø »ğÀÔ
+	for (int i = failure.size() - 1; i >= 0; i--) { //ì‹¤íŒ¨ìœ¨ì„ ë‚´ë¦¼ì°¨ìˆœìœ¼ë¡œ ì •ë ¬
+		if ((i != 0) && (failure[i][0] == failure[i - 1][0])) { //ê°™ì€ ì‹¤íŒ¨ìœ¨ì¼ë•Œ ë¬¸ì œ ì˜¤ë¦„ì°¨ìˆœ ì‚½ì…
 			int temp = i;
 			while ((temp != 0) && (failure[temp][0] == failure[temp - 1][0]))
 				temp--;
