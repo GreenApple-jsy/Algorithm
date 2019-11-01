@@ -57,6 +57,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42898
 멀리 뛰기
 https://programmers.co.kr/learn/courses/30/lessons/12914
 
+무지의 먹방 라이브
+https://programmers.co.kr/learn/courses/30/lessons/42891
+
 방문 길이
 https://programmers.co.kr/learn/courses/30/lessons/49994
 
