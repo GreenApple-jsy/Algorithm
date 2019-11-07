@@ -15,6 +15,9 @@ https://www.acmicpc.net/problem/11726
 H-index
 https://programmers.co.kr/learn/courses/30/lessons/42747
 
+N-Queen
+https://programmers.co.kr/learn/courses/30/lessons/12952
+
 N으로 표현
 https://programmers.co.kr/learn/courses/30/lessons/42895
 
