@@ -132,6 +132,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42842
 쿠키 구입
 https://programmers.co.kr/learn/courses/30/lessons/49995
 
+타겟 넘버
+https://programmers.co.kr/learn/courses/30/lessons/43165
+
 타일 장식물
 https://programmers.co.kr/learn/courses/30/lessons/43104
 
