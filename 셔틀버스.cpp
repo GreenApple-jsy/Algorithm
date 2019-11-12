@@ -5,7 +5,7 @@ using namespace std;
 
 string solution(int n, int t, int m, vector<string> timetable) {
 	int s = timetable.size();
-	vector <int> timetableN(s);
+	vector <int> timetableN(s); //타임테이블을 분단위로 저장
 	for (int i = 0; i < s; i++)
 		timetableN[i] = 60 * atoi(timetable[i].substr(0, 2).c_str()) + atoi(timetable[i].substr(3, 2).c_str());
 	sort(timetableN.begin(), timetableN.end());
