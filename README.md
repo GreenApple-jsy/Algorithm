@@ -84,6 +84,9 @@ https://programmers.co.kr/learn/courses/30/lessons/1832?language=cpp
 블랙잭
 https://www.acmicpc.net/problem/2798
 
+새샘이의 7-3-5 게임
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWZ2IErKCwUDFAUQ&categoryId=AWZ2IErKCwUDFAUQ&categoryType=CODE
+
 설탕 배달
 https://www.acmicpc.net/problem/2839
 
