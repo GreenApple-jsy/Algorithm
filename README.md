@@ -78,6 +78,9 @@ https://programmers.co.kr/learn/courses/30/lessons/49994
 베스트앨범
 https://programmers.co.kr/learn/courses/30/lessons/42579
 
+보충학습과 평균
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnA2jaxDsDFAWr&categoryId=AWBnA2jaxDsDFAWr&categoryType=CODE
+
 보행자 천국
 https://programmers.co.kr/learn/courses/30/lessons/1832?language=cpp
 
