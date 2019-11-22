@@ -45,6 +45,9 @@ https://programmers.co.kr/learn/courses/30/lessons/43162
 다양성 측정
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG&categoryId=AWq40NEKLyADFARG&categoryType=CODE
 
+다음 큰 숫자
+https://programmers.co.kr/learn/courses/30/lessons/12911
+
 다트 게임
 https://programmers.co.kr/learn/courses/30/lessons/17682
 
