@@ -42,6 +42,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42586
 네트워크
 https://programmers.co.kr/learn/courses/30/lessons/43162
 
+뉴스 클러스터링
+https://programmers.co.kr/learn/courses/30/lessons/17677
+
 다양성 측정
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG&categoryId=AWq40NEKLyADFARG&categoryType=CODE
 
