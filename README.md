@@ -141,6 +141,9 @@ https://programmers.co.kr/learn/courses/30/lessons/43238
 정수삼각형
 https://programmers.co.kr/learn/courses/30/lessons/43105
 
+종이접기
+https://programmers.co.kr/learn/courses/30/lessons/62049
+
 줄 서는 방법
 https://programmers.co.kr/learn/courses/30/lessons/12936
 
