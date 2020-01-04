@@ -132,6 +132,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42888
 올바른 괄호의 개수
 https://programmers.co.kr/learn/courses/30/lessons/12929
 
+완주하지 못한 선수
+https://programmers.co.kr/learn/courses/30/lessons/42576
+
 이중우선순위큐
 https://programmers.co.kr/learn/courses/30/lessons/42628
 
