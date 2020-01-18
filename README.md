@@ -156,6 +156,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12938
 최소 차이 기점
 https://greenapple16.tistory.com/16?category=811354
 
+최솟값 만들기
+https://programmers.co.kr/learn/courses/30/lessons/12941
+
 카카오프렌즈 컬러링 북
 https://programmers.co.kr/learn/courses/30/lessons/1829
 
