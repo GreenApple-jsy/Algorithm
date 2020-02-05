@@ -45,6 +45,9 @@ https://programmers.co.kr/learn/courses/30/lessons/43162
 뉴스 클러스터링
 https://programmers.co.kr/learn/courses/30/lessons/17677
 
+다리를 지나는 트럭
+https://programmers.co.kr/learn/courses/30/lessons/42583
+
 다양성 측정
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG&categoryId=AWq40NEKLyADFARG&categoryType=CODE
 
