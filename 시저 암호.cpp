@@ -5,10 +5,10 @@ using namespace std;
 string solution(string s, int n) {
 	string answer = "";
 	for (int i = 0; i < s.length(); i++) {
-		if (s[i] == ' ') //°ø¹éÀÏ °æ¿ì ±×´ë·Î
+		if (s[i] == ' ') // ê³µë°±ì¼ ê²½ìš° ê·¸ëŒ€ë¡œ
 			answer += " ";
 		else {
-			//¼Ò¹®ÀÚ, ´ë¹®ÀÚ ¹üÀ§ ¹þ¾î³­ °æ¿ì
+			// ì†Œë¬¸ìž, ëŒ€ë¬¸ìž ë²”ìœ„ ë²—ì–´ë‚œ ê²½ìš°
 			if (((s[i] + n > 122)) || ((s[i] < 91) && (s[i] + n >= 91)))
 				answer += (s[i] + n - 26);
 			else
