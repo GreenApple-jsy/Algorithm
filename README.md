@@ -27,6 +27,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42895
 N진수 게임
 https://programmers.co.kr/learn/courses/30/lessons/17687
 
+x만큼 간격이 있는 n개의 숫자
+https://programmers.co.kr/learn/courses/30/lessons/12954
+
 가장 긴 팰린드롬
 https://programmers.co.kr/learn/courses/30/lessons/12904
 
