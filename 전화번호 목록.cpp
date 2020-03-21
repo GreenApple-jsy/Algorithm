@@ -6,8 +6,8 @@ bool solution(vector<string> phone_book) {
     bool answer = true;
     for (int i = 0; i < phone_book.size(); i++)
     {
-        for (int j = 0; j < i; j++) { //ÀÌÀü ÀüÈ­¹øÈ£µé°ú ºñ±³
-            int cmp_length = (phone_book[i].length() < phone_book[j].length()) ? phone_book[i].length() : phone_book[j].length();
+        for (int j = 0; j < i; j++) { //ì´ì „ ì „í™”ë²ˆí˜¸ë“¤ê³¼ ë¹„êµ
+            int cmp_length = (phone_book[i].length() < phone_book[j].length()) ? phone_book[i].length() : phone_book[j].length(); //ë¹„êµí•  ë¬¸ìžì—´ ê¸¸ì´
             if (phone_book[i].substr(0, cmp_length) == phone_book[j].substr(0, cmp_length)) {
                 return false;
             }
