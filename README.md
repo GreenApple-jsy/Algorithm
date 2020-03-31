@@ -195,6 +195,9 @@ https://programmers.co.kr/learn/courses/30/lessons/17680
 쿠키 구입
 https://programmers.co.kr/learn/courses/30/lessons/49995
 
+크레인 인형뽑기 게임
+https://programmers.co.kr/learn/courses/30/lessons/64061
+
 타겟 넘버
 https://programmers.co.kr/learn/courses/30/lessons/43165
 
