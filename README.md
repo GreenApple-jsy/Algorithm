@@ -21,6 +21,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12951
 N-Queen
 https://programmers.co.kr/learn/courses/30/lessons/12952
 
+N개의 최소공배수
+https://programmers.co.kr/learn/courses/30/lessons/12953?language=cpp
+
 N으로 표현
 https://programmers.co.kr/learn/courses/30/lessons/42895
 
