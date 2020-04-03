@@ -1,8 +1,6 @@
 #include <string>
 #include <vector>
-#include <iostream>
 #include <algorithm>
-
 using namespace std;
 
 string solution(string s) {
@@ -21,9 +19,4 @@ string solution(string s) {
 	sort(numbers.begin(), numbers.end());
 	
 	return to_string(numbers.front()) +" " + to_string(numbers.back());
-}
-
-int main() {
-	cout << solution("4 3 2 1");
-	system("pause");
 }
