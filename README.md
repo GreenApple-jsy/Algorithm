@@ -84,6 +84,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42897
 등굣길
 https://programmers.co.kr/learn/courses/30/lessons/42898
 
+디스크 컨트롤러
+https://programmers.co.kr/learn/courses/30/lessons/42627
+
 멀리 뛰기
 https://programmers.co.kr/learn/courses/30/lessons/12914
 
