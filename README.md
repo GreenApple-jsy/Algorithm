@@ -18,6 +18,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42747
 JadenCase 문자열 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12951
 
+K번째수
+https://programmers.co.kr/learn/courses/30/lessons/42748
+
 N-Queen
 https://programmers.co.kr/learn/courses/30/lessons/12952
 
