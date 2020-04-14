@@ -135,6 +135,9 @@ https://programmers.co.kr/learn/courses/30/lessons/17678
 소수 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12977
 
+쇠막대기
+https://programmers.co.kr/learn/courses/30/lessons/42585
+
 스킬 트리
 https://programmers.co.kr/learn/courses/30/lessons/49993
 
