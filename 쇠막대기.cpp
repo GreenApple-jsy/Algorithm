@@ -4,7 +4,7 @@ using namespace std;
 
 int solution(string arrangement) {
 	int answer = 0; //쇠막대기 수 + 커팅 횟수
-	int currentStickN = 0; //레이저가 자르게 될 쇠막대기 갯수
+	int currentStickN = 0; //레이저가 자르게 될 쇠막대기 수
 	for (int i = 0; i < arrangement.length() - 1; i++) {
 		if (arrangement[i] == '(') {
 			if (arrangement[i + 1] == ')') { //레이저인 경우
