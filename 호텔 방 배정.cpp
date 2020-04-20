@@ -3,9 +3,9 @@
 #include <map>
 using namespace std;
 
-map<long, long> room_map; //¹èÁ¤µÈ ¹æµéÀÇ ¸Ê <¹èÁ¤µÈ ¹æ ¹øÈ£, ¶Ç ´Ù¸¥ °í°´ÀÌ ¿øÇÒ °æ¿ì ¹èÁ¤µÉ ´ÙÀ½ ¹æ ¹øÈ£>
+map<long, long> room_map; //ë°°ì •ëœ ë°©ë“¤ì˜ ë§µ <ë°°ì •ëœ ë°© ë²ˆí˜¸, ë˜ ë‹¤ë¥¸ ê³ ê°ì´ ì›í•  ê²½ìš° ë°°ì •ë  ë‹¤ìŒ ë°© ë²ˆí˜¸>
 
-long long findAvailableRoomN(long long num) { //¹èÁ¤ °¡´ÉÇÑ ¹æ Áß °¡Àå ¹øÈ£°¡ ÀÛÀº ¹æ Ã£±â
+long long findAvailableRoomN(long long num) { //ë°°ì • ê°€ëŠ¥í•œ ë°© ì¤‘ ê°€ì¥ ë²ˆí˜¸ê°€ ì‘ì€ ë°© ì°¾ê¸°
 	if (room_map[num] == 0) {
 		return num;
 	}
@@ -15,7 +15,6 @@ long long findAvailableRoomN(long long num) { //¹èÁ¤ °¡´ÉÇÑ ¹æ Áß °¡Àå ¹øÈ£°¡ ÀÛ
 	}
 }
 
-
 vector<long long> solution(long long k, vector<long long> room_number) {
 	vector<long long> answer;
 	long long roomN;
@@ -23,11 +22,11 @@ vector<long long> solution(long long k, vector<long long> room_number) {
 
 	for(int i = 0; i < room_number.size(); i++){
 		roomN = room_number[i];
-		if(room_map[roomN] == 0){ //¾ÆÁ÷ ¹èÁ¤µÇÁö ¾ÊÀº ¹æÀÎ °æ¿ì
+		if(room_map[roomN] == 0){ //ì•„ì§ ë°°ì •ë˜ì§€ ì•Šì€ ë°©ì¸ ê²½ìš°
 			answer.push_back(roomN);
 			room_map[roomN] = findAvailableRoomN(roomN + 1);
 		}
-		else{ //ÀÌ¹Ì ¹èÁ¤µÈ ¹æÀÎ °æ¿ì
+		else{ //ì´ë¯¸ ë°°ì •ëœ ë°©ì¸ ê²½ìš°
 			otherRoomN = findAvailableRoomN(roomN);
 			answer.push_back(otherRoomN);
 			room_map[otherRoomN] = findAvailableRoomN(otherRoomN + 1);
