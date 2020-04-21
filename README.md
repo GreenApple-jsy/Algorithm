@@ -174,6 +174,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12929
 완주하지 못한 선수
 https://programmers.co.kr/learn/courses/30/lessons/42576
 
+이상한 문자 만들기
+https://programmers.co.kr/learn/courses/30/lessons/12930
+
 이중우선순위큐
 https://programmers.co.kr/learn/courses/30/lessons/42628
 
