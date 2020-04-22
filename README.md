@@ -183,6 +183,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42628
 입국심사
 https://programmers.co.kr/learn/courses/30/lessons/43238
 
+자연수 뒤집어 배열로 만들기
+https://programmers.co.kr/learn/courses/30/lessons/12932
+
 전화번호 목록
 https://programmers.co.kr/learn/courses/30/lessons/42577
 
