@@ -228,6 +228,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42842
 캐시
 https://programmers.co.kr/learn/courses/30/lessons/17680
 
+콜라츠 추측
+https://programmers.co.kr/learn/courses/30/lessons/12943
+
 쿠키 구입
 https://programmers.co.kr/learn/courses/30/lessons/49995
 
