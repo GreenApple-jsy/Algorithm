@@ -12,7 +12,7 @@ void func(long &num) {
 }
 
 int solution(int num) {
-	long t = num;
+	long t = num; //int -> long 타입 변환 후 풀이
 	answer = 0;
 	while (t != 1) {
 		func(t);
