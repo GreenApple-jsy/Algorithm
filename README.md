@@ -135,6 +135,9 @@ https://programmers.co.kr/learn/courses/30/lessons/17678
 소수 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12977
 
+소수 찾기
+https://programmers.co.kr/learn/courses/30/lessons/42839
+
 쇠막대기
 https://programmers.co.kr/learn/courses/30/lessons/42585
 
