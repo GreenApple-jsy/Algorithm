@@ -213,6 +213,9 @@ https://programmers.co.kr/learn/courses/30/lessons/64062
 최고의 집합
 https://programmers.co.kr/learn/courses/30/lessons/12938
 
+최대공약수와 최소공배수
+https://programmers.co.kr/learn/courses/30/lessons/12940
+
 최댓값과 최솟값
 https://programmers.co.kr/learn/courses/30/lessons/12939
 
