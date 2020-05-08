@@ -153,6 +153,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12926
 실패율
 https://programmers.co.kr/learn/courses/30/lessons/42889
 
+압축
+https://programmers.co.kr/learn/courses/30/lessons/17684
+
 야근 지수
 https://programmers.co.kr/learn/courses/30/lessons/12927
 
