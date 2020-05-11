@@ -81,6 +81,9 @@ https://programmers.co.kr/learn/courses/30/lessons/43163
 단어의 개수
 https://www.acmicpc.net/problem/1152
 
+단체사진 찍기
+https://programmers.co.kr/learn/courses/30/lessons/1835
+
 도둑질
 https://programmers.co.kr/learn/courses/30/lessons/42897
 
