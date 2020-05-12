@@ -84,6 +84,9 @@ https://www.acmicpc.net/problem/1152
 단체사진 찍기
 https://programmers.co.kr/learn/courses/30/lessons/1835
 
+더 맵게
+https://programmers.co.kr/learn/courses/30/lessons/42626
+
 도둑질
 https://programmers.co.kr/learn/courses/30/lessons/42897
 
