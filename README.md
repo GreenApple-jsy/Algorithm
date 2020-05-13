@@ -96,6 +96,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42898
 디스크 컨트롤러
 https://programmers.co.kr/learn/courses/30/lessons/42627
 
+땅따먹기
+https://programmers.co.kr/learn/courses/30/lessons/12913
+
 멀리 뛰기
 https://programmers.co.kr/learn/courses/30/lessons/12914
 
