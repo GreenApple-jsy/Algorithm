@@ -228,6 +228,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12936
 징검다리 건너기
 https://programmers.co.kr/learn/courses/30/lessons/64062
 
+짝지어 제거하기
+https://programmers.co.kr/learn/courses/30/lessons/12973
+
 최고의 집합
 https://programmers.co.kr/learn/courses/30/lessons/12938
 
