@@ -45,6 +45,9 @@ https://programmers.co.kr/learn/courses/30/lessons/49189
 가장 큰 수
 https://programmers.co.kr/learn/courses/30/lessons/42746
 
+가장 큰 정사각형 찾기
+https://programmers.co.kr/learn/courses/30/lessons/12905
+
 간단한 소인수분해
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq
 
