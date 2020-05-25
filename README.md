@@ -108,6 +108,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12914
 멀쩡한 사각형
 https://programmers.co.kr/learn/courses/30/lessons/62048
 
+모의고사
+https://programmers.co.kr/learn/courses/30/lessons/42840?language=cpp
+
 무지의 먹방 라이브
 https://programmers.co.kr/learn/courses/30/lessons/42891
 
