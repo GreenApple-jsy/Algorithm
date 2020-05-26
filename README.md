@@ -126,6 +126,9 @@ https://programmers.co.kr/learn/courses/30/lessons/49994
 베스트앨범
 https://programmers.co.kr/learn/courses/30/lessons/42579
 
+보물왕 태혁
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWtInr3auH0DFASy
+
 보충학습과 평균
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnA2jaxDsDFAWr&categoryId=AWBnA2jaxDsDFAWr&categoryType=CODE
 
