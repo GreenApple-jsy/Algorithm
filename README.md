@@ -219,6 +219,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12932
 전화번호 목록
 https://programmers.co.kr/learn/courses/30/lessons/42577
 
+정사각형 방
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc
+
 정수 내림차순으로 배치하기
 https://programmers.co.kr/learn/courses/30/lessons/12933
 
