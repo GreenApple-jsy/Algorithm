@@ -216,6 +216,9 @@ https://programmers.co.kr/learn/courses/30/lessons/43238
 자연수 뒤집어 배열로 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12932
 
+적고 지우기
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW37UDPKCgQDFATy&categoryId=AW37UDPKCgQDFATy&categoryType=CODE
+
 전화번호 목록
 https://programmers.co.kr/learn/courses/30/lessons/42577
 
