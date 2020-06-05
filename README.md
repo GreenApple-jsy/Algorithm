@@ -69,6 +69,9 @@ https://programmers.co.kr/learn/courses/30/lessons/17677
 다리를 지나는 트럭
 https://programmers.co.kr/learn/courses/30/lessons/42583
 
+다솔이의 다이아몬드 장식
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWSNw5jKzwMDFAUr&categoryId=AWSNw5jKzwMDFAUr&categoryType=CODE#none
+
 다양성 측정
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWq40NEKLyADFARG&categoryId=AWq40NEKLyADFARG&categoryType=CODE
 
