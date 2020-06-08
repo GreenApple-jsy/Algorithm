@@ -225,6 +225,9 @@ https://programmers.co.kr/learn/courses/30/lessons/43238
 자연수 뒤집어 배열로 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12932
 
+장애물 경주 난이도
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh
+
 적고 지우기
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW37UDPKCgQDFATy&categoryId=AW37UDPKCgQDFATy&categoryType=CODE
 
