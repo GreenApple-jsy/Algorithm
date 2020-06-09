@@ -2,8 +2,6 @@
 #include <iostream>
 using namespace std;
 
-//1주일에 L분 이상 U분 이하의 운동
-
 int main() {
 	string answer;
 	int T, L, U, X;
