@@ -66,6 +66,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42586
 네트워크
 https://programmers.co.kr/learn/courses/30/lessons/43162
 
+농작물 수확하기
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB
+
 뉴스 클러스터링
 https://programmers.co.kr/learn/courses/30/lessons/17677
 
