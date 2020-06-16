@@ -264,6 +264,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWE
 줄 서는 방법
 https://programmers.co.kr/learn/courses/30/lessons/12936
 
+직사각형 길이 찾기
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWFPmsqqALwDFAV0
+
 징검다리 건너기
 https://programmers.co.kr/learn/courses/30/lessons/64062
 
