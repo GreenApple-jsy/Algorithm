@@ -19,5 +19,5 @@ int solution(string word, vector<string> pages) {
 int main() {
 
 
-	system("pause");
+	return 0;
 }
