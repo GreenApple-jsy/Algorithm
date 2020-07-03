@@ -25,8 +25,6 @@ int distance(int &pos, int &target) {
     return sum;
 }
 
-
-
 string solution(vector<int> numbers, string hand) {
     string answer = "";
     bool isLeft = (hand == "left") ? true : false;
