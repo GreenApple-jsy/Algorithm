@@ -180,6 +180,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42839
 쇠막대기
 https://programmers.co.kr/learn/courses/30/lessons/42585
 
+수식 최대화
+https://programmers.co.kr/learn/courses/30/lessons/67257
+
 숫자의 표현
 https://programmers.co.kr/learn/courses/30/lessons/12924
 
