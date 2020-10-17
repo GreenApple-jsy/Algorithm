@@ -204,6 +204,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12927
 여행 경로
 https://programmers.co.kr/learn/courses/30/lessons/43164
 
+연구소
+https://www.acmicpc.net/problem/14502
+
 연산자 끼워넣기
 https://www.acmicpc.net/problem/14888
 
