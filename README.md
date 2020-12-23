@@ -135,6 +135,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42891
 문자열 내 마음대로 정렬하기
 https://programmers.co.kr/learn/courses/30/lessons/12915
 
+미니멀리즘 시계
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXIvNBzKapEDFAXR&categoryId=AXIvNBzKapEDFAXR&categoryType=CODE#none
+
 방문 길이
 https://programmers.co.kr/learn/courses/30/lessons/49994
 
