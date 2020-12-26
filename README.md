@@ -45,6 +45,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12904
 가장 먼 노드
 https://programmers.co.kr/learn/courses/30/lessons/49189
 
+가장 빠른 문자열 타이핑
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_65wkqsb4DFAWS
+
 가장 큰 수
 https://programmers.co.kr/learn/courses/30/lessons/42746
 
