@@ -156,6 +156,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42579
 보물왕 태혁
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWtInr3auH0DFASy
 
+보석 쇼핑
+https://programmers.co.kr/learn/courses/30/lessons/67258
+
 보충학습과 평균
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnA2jaxDsDFAWr&categoryId=AWBnA2jaxDsDFAWr&categoryType=CODE
 
