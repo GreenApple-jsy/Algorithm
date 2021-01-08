@@ -105,9 +105,6 @@ https://www.acmicpc.net/problem/1152
 단체사진 찍기
 https://programmers.co.kr/learn/courses/30/lessons/1835
 
-대규의 팬덤활동
-https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWm8gU7KljcDFASj&categoryId=AWm8gU7KljcDFASj&categoryType=CODE
-
 더 맵게
 https://programmers.co.kr/learn/courses/30/lessons/42626
 
@@ -188,6 +185,9 @@ https://www.acmicpc.net/problem/2839
 
 셔틀버스
 https://programmers.co.kr/learn/courses/30/lessons/17678
+
+소득 불균형
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNP4CvauaMDFAXS
 
 소수 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12977
