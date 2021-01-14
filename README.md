@@ -150,6 +150,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXM
 미니멀리즘 시계
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXIvNBzKapEDFAXR&categoryId=AXIvNBzKapEDFAXR&categoryType=CODE#none
 
+민정이와 광직이의 알파벳 공부
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXAdrmW61ssDFAXq
+
 방금그곡
 https://programmers.co.kr/learn/courses/30/lessons/17683
 
