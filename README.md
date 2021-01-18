@@ -114,6 +114,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42626
 도둑질
 https://programmers.co.kr/learn/courses/30/lessons/42897
 
+두 개 뽑아서 더하기
+https://programmers.co.kr/learn/courses/30/lessons/68644
+
 두문자어
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW2y6n3qPXQDFATy#none
 
