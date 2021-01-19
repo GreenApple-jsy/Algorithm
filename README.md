@@ -273,6 +273,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12930
 이중우선순위큐
 https://programmers.co.kr/learn/courses/30/lessons/42628
 
+이진 변환 반복
+https://programmers.co.kr/learn/courses/30/lessons/70129
+
 입국심사
 https://programmers.co.kr/learn/courses/30/lessons/43238
 
