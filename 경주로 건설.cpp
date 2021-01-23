@@ -35,7 +35,6 @@ void find_route(int x, int y, int direction, int current_cost, vector<vector<boo
         find_route(x + 1, y, 1, temp_coast, board_visit_check);
         board_visit_check[x + 1][y] = false;
     }
-
     //왼쪽
     if ((y - 1 >= 0) && (board_visit_check[x][y - 1] == false) && (g_board[x][y - 1] == 0)) {
         int temp_coast = current_cost;
@@ -46,7 +45,6 @@ void find_route(int x, int y, int direction, int current_cost, vector<vector<boo
         find_route(x, y - 1, 2, temp_coast, board_visit_check);
         board_visit_check[x][y - 1] = false;
     }
-
     //위
     if ((x - 1 >= 0) && (board_visit_check[x - 1][y] == false) && (g_board[x - 1][y] == 0)) {
         int temp_coast = current_cost;
@@ -59,8 +57,6 @@ void find_route(int x, int y, int direction, int current_cost, vector<vector<boo
     }
     return;
 }
-
-
 
 int solution(vector<vector<int>> board) {
     min_coast = 99999999;
