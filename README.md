@@ -378,6 +378,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42588
 튜플
 https://programmers.co.kr/learn/courses/30/lessons/64065
 
+패턴 마디의 길이
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq
+
 프렌즈4블록
 https://programmers.co.kr/learn/courses/30/lessons/17679
 
