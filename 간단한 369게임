@@ -1,0 +1,25 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	cout.tie(NULL);
+	int	N;
+	cin >> N;
+	for (int i = 1; i <= N; i++) {
+		string n = to_string(i);
+		string p = n; //출력을 위한 스트링. 369가 포함되어있지 않으면 n을 그대로 출력
+		for (int j = 0; j < n.length(); j++) {
+			if ((n[j] == '3') || (n[j] == '6') || (n[j] == '9')) {
+				if (p.front() == '-')
+					p += '-';
+				else
+					p = '-';
+			}
+		}
+		cout << p << " ";
+	}
+	return 0;
+}
