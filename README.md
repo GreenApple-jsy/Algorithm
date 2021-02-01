@@ -78,6 +78,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXM
 기능개발
 https://programmers.co.kr/learn/courses/30/lessons/42586
 
+내적
+https://programmers.co.kr/learn/courses/30/lessons/70128
+
 네트워크
 https://programmers.co.kr/learn/courses/30/lessons/43162
 
