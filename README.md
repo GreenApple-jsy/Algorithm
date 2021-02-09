@@ -312,6 +312,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12934
 정수삼각형
 https://programmers.co.kr/learn/courses/30/lessons/43105
 
+제곱 팰린드롬 수
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXO72aaqPrcDFAXS
+
 종이접기
 https://programmers.co.kr/learn/courses/30/lessons/62049
 
