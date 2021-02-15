@@ -12,6 +12,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12899
 2xn 타일링
 https://www.acmicpc.net/problem/11726
 
+3진법 뒤집기
+https://programmers.co.kr/learn/courses/30/lessons/68935
+
 H-index
 https://programmers.co.kr/learn/courses/30/lessons/42747
 
