@@ -342,6 +342,9 @@ https://programmers.co.kr/learn/courses/30/lessons/64062
 짝지어 제거하기
 https://programmers.co.kr/learn/courses/30/lessons/12973
 
+초심자의 회문 검사
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PyTLqAf4DFAUq
+
 최고의 집합
 https://programmers.co.kr/learn/courses/30/lessons/12938
 
