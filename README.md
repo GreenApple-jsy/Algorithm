@@ -147,6 +147,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12914
 멀쩡한 사각형
 https://programmers.co.kr/learn/courses/30/lessons/62048
 
+메뉴 리뉴얼
+https://programmers.co.kr/learn/courses/30/lessons/72411
+
 모음이 보이지 않는 사람
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcD_66pUEDFAV8
 
