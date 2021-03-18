@@ -64,7 +64,7 @@ void find_ck(vector<vector<string>> relation) {
 int solution(vector<vector<string>> relation) {
     ck = 0;
     find_subset(relation[0].size(), 0, {});
-    sort(subset.begin(), subset.end());
+    sort(subset.begin(), subset.end()); //부분 집합들을 원소 개수 순으로 정렬(오름차순)
     find_ck(relation);
     return ck;
 }
