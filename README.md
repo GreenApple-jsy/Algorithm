@@ -437,3 +437,6 @@ https://programmers.co.kr/learn/courses/30/lessons/12949
 
 홀수일까 짝수일까
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWxpEDaAVoDFAW4
+
+후보키
+https://programmers.co.kr/learn/courses/30/lessons/42890
