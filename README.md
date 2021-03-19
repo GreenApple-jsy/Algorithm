@@ -228,6 +228,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12977
 소수 찾기
 https://programmers.co.kr/learn/courses/30/lessons/42839
 
+소수 찾기2
+https://programmers.co.kr/learn/courses/30/lessons/12921
+
 쇠막대기
 https://programmers.co.kr/learn/courses/30/lessons/42585
 
