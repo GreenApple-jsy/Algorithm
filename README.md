@@ -171,6 +171,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXM
 미니멀리즘 시계
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXIvNBzKapEDFAXR&categoryId=AXIvNBzKapEDFAXR&categoryType=CODE#none
 
+미세먼지 안녕!
+https://www.acmicpc.net/problem/17144
+
 민정이와 광직이의 알파벳 공부
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXAdrmW61ssDFAXq
 
