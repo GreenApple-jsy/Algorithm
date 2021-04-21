@@ -78,6 +78,9 @@ https://programmers.co.kr/learn/courses/30/lessons/67259
 괄호 변환
 https://programmers.co.kr/learn/courses/30/lessons/60058
 
+괄호 회전하기
+https://programmers.co.kr/learn/courses/30/lessons/76502
+
 구독자 전쟁
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCXV_qVgkDFAWv
 
