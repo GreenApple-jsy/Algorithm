@@ -285,6 +285,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12981
 예산
 https://programmers.co.kr/learn/courses/30/lessons/43237
 
+예상 대진표
+https://programmers.co.kr/learn/courses/30/lessons/12985
+
 오픈채팅방
 https://programmers.co.kr/learn/courses/30/lessons/42888
 
