@@ -351,6 +351,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXO
 종이접기
 https://programmers.co.kr/learn/courses/30/lessons/62049
 
+주사위 굴리기
+https://www.acmicpc.net/problem/14499
+
 주식가격
 https://programmers.co.kr/learn/courses/30/lessons/42584
 
