@@ -261,6 +261,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12926
 시험 감독
 https://www.acmicpc.net/problem/13458
 
+신규 아이디 추천
+https://programmers.co.kr/learn/courses/30/lessons/72410
+
 실패율
 https://programmers.co.kr/learn/courses/30/lessons/42889
 
