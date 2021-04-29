@@ -2,15 +2,16 @@
 #include <vector>
 using namespace std;
 
+//각 자리에 저장할 정보
 struct seat {
-	int nearSpaceN;
-	int studentN;
-	vector <int> nearStudents;
+	int nearSpaceN; // 인접한 공백의 수
+	int studentN; // 자리에 앉은 학생 번호
+	vector <int> nearStudents; // 인접한 학생들의 번호
 };
 
-vector <vector <seat> > board;
-vector <vector<int> > student_info; //입력받는 정보(학생의 번호, 좋아하는 학생 번호)
-vector <pair<int, int> > student_seat; //입력받은 학생 순서대로 앉은 자리 위치(x, y)
+vector <vector <seat> > board; // N * N 자리
+vector <vector<int> > student_info; // 입력받는 정보(학생의 번호, 좋아하는 학생 번호)
+vector <pair<int, int> > student_seat; // 입력받은 학생 순서대로 앉은 자리 위치(x, y)
 
 void find_seat(int num) {
 	int board_size = board.size();
@@ -21,26 +22,26 @@ void find_seat(int num) {
 	int f4 = student_info[num][4];
 
 	int max_spaceN = -1;
-	pair <int, int> max_spaceSeat;
+	pair <int, int> max_spaceSeat; // 비어있는 칸이 가장 많이 인접한 칸
 
 	int max_friendN = 0;
 	int max_friendSeat_spaceN = 0;
-	pair <int, int> max_friendSeat;
+	pair <int, int> max_friendSeat; // 좋아하는 학생이 가장 많이 인접한 칸
 
-	pair <int, int> empty_seat;
+	pair <int, int> empty_seat; // 앉을 수 있는 빈자리
 
 	bool found_emptySeat = false;
 
 	for (int i = 0; i < board_size; i++) {
 		for (int j = 0; j < board_size; j++) {
-			if (board[i][j].studentN == 0) {
+			if (board[i][j].studentN == 0) { //아무도 안앉은 자리
 
-				if (!found_emptySeat) {
+				if (!found_emptySeat) { //가장 왼쪽 위에 있는 빈자리를 찾아둠
 					empty_seat = { i, j };
 					found_emptySeat = true;
 				}
 
-				if (board[i][j].nearSpaceN > max_spaceN) {
+				if (board[i][j].nearSpaceN > max_spaceN) { // 비어있는 칸이 가장 많이 인접한 칸을 저장
 					max_spaceN = board[i][j].nearSpaceN;
 					max_spaceSeat = { i, j };
 				}
@@ -53,6 +54,7 @@ void find_seat(int num) {
 						friend_count++;
 				}
 
+				// 좋아하는 학생이 가장 많이 인접한 칸을 저장
 				if (friend_count > max_friendN) {
 					max_friendN = friend_count;
 					max_friendSeat = { i, j };
@@ -77,9 +79,12 @@ void find_seat(int num) {
 
 	int x = final_seat.first, y = final_seat.second;
 	int studentNum = student_info[num][0];
+
+	// 조건에 맞게 찾은 자리에 학생 번호 저장
 	board[x][y].studentN = studentNum;
 	student_seat.push_back(final_seat);
 
+	// 인접한 칸들에 대해 비어있는 칸 개수, 인접한 학생 번호 리스트 업데이트
 	if (x > 0) {
 		board[x - 1][y].nearSpaceN--;
 		board[x - 1][y].nearStudents.push_back(studentNum);
@@ -150,6 +155,7 @@ int main() {
 			s.studentN = 0;
 			s.nearStudents = {};
 
+			// 칸 위치에 따라 인접한 비어있는 칸의 개수를 저장
 			if ((i == 0 && j == 0) ||
 				(i == 0 && j == N - 1) ||
 				(i == N - 1) && (j == 0) ||
