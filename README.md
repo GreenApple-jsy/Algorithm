@@ -219,6 +219,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL
 삼각 달팽이
 https://programmers.co.kr/learn/courses/30/lessons/68645
 
+상어 초등학교
+https://www.acmicpc.net/problem/21608
+
 새샘이의 7-3-5 게임
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWZ2IErKCwUDFAUQ&categoryId=AWZ2IErKCwUDFAUQ&categoryType=CODE
 
