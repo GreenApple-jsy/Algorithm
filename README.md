@@ -69,6 +69,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5
 간단한 소인수분해
 https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq
 
+거리두기 확인하기
+https://programmers.co.kr/learn/courses/30/lessons/81302?language=cpp#fn1
+
 거스름돈
 https://programmers.co.kr/learn/courses/30/lessons/12907
 
