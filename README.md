@@ -255,6 +255,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42585
 수식 최대화
 http://programmers.co.kr/learn/courses/30/lessons/67257
 
+숫자 문자열과 영단어
+https://programmers.co.kr/learn/courses/30/lessons/81301
+
 숫자의 표현
 https://programmers.co.kr/learn/courses/30/lessons/12924
 
