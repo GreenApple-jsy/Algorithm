@@ -15,6 +15,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12901
 2xn 타일링
 https://www.acmicpc.net/problem/11726
 
+2개 이하로 다른 비트
+https://programmers.co.kr/learn/courses/30/lessons/77885?language=cpp
+
 3진법 뒤집기
 https://programmers.co.kr/learn/courses/30/lessons/68935
 
