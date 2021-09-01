@@ -396,6 +396,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW9
 징검다리 건너기
 https://programmers.co.kr/learn/courses/30/lessons/64062
 
+징검다리
+https://programmers.co.kr/learn/courses/30/lessons/43236
+
 짝지어 제거하기
 https://programmers.co.kr/learn/courses/30/lessons/12973
 
