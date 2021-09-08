@@ -213,6 +213,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWB
 보행자 천국
 https://programmers.co.kr/learn/courses/30/lessons/1832?language=cpp
 
+부족한 금액 계산하기
+https://programmers.co.kr/learn/courses/30/lessons/82612
+
 불량 사용자
 https://programmers.co.kr/learn/courses/30/lessons/64064
 
