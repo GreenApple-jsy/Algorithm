@@ -366,6 +366,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW3
 전화번호 목록
 https://programmers.co.kr/learn/courses/30/lessons/42577
 
+전화번호 목록2(위 문제와 같은 문제, 백준 버전)
+https://www.acmicpc.net/problem/5052
+
 정사각형 방
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc
 
