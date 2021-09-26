@@ -291,6 +291,9 @@ https://programmers.co.kr/learn/courses/30/lessons/72410
 실패율
 https://programmers.co.kr/learn/courses/30/lessons/42889
 
+아름이의 돌 던지기
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18-stqI8oCFAZN
+
 압축
 https://programmers.co.kr/learn/courses/30/lessons/17684
 
