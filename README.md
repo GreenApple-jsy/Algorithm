@@ -21,6 +21,9 @@ https://programmers.co.kr/learn/courses/30/lessons/77885?language=cpp
 3진법 뒤집기
 https://programmers.co.kr/learn/courses/30/lessons/68935
 
+4주차_직업군 추천하기
+https://programmers.co.kr/learn/courses/30/lessons/84325
+
 H-index
 https://programmers.co.kr/learn/courses/30/lessons/42747
 
