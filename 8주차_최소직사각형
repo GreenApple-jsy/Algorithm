@@ -1,0 +1,17 @@
+#include <string>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+int solution(vector<vector<int>> sizes) {
+    vector<int> long_sides;
+    vector<int> short_sides;
+
+    for (int i = 0; i < sizes.size(); ++i) {
+        long_sides.push_back(max(sizes[i][0], sizes[i][1]));
+        short_sides.push_back(min(sizes[i][0], sizes[i][1]));
+    }
+    sort(long_sides.begin(), long_sides.end());
+    sort(short_sides.begin(), short_sides.end());
+    return long_sides.back() * short_sides.back();
+}
