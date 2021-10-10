@@ -396,6 +396,9 @@ https://programmers.co.kr/learn/courses/30/lessons/43105
 제곱 팰린드롬 수
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXO72aaqPrcDFAXS
 
+조교의 성적 매기기
+https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=CCPP&select-1=2&pageSize=10&pageIndex=1
+
 종이접기
 https://programmers.co.kr/learn/courses/30/lessons/62049
 
