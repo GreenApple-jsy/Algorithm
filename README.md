@@ -201,6 +201,9 @@ https://www.acmicpc.net/problem/17144
 민정이와 광직이의 알파벳 공부
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXAdrmW61ssDFAXq
 
+바이러스
+https://www.acmicpc.net/problem/2606
+
 방금그곡
 https://programmers.co.kr/learn/courses/30/lessons/17683
 
