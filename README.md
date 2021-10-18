@@ -135,6 +135,9 @@ https://programmers.co.kr/learn/courses/30/lessons/17682
 단속카메라
 https://programmers.co.kr/learn/courses/30/lessons/42884
 
+단순 2진 암호코드
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD
+
 단어 변환
 https://programmers.co.kr/learn/courses/30/lessons/43163
 
