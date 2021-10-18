@@ -270,6 +270,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXN
 소수 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12977
 
+소수 완제품 확률
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18Sx36IwACFAZN
+
 소수 찾기
 https://programmers.co.kr/learn/courses/30/lessons/42839
 
