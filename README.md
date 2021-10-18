@@ -54,6 +54,9 @@ https://programmers.co.kr/learn/courses/30/lessons/17687
 Summation
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1lwyh6WPwDFARC&categoryId=AW1lwyh6WPwDFARC&categoryType=CODE
 
+View
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh
+
 x만큼 간격이 있는 n개의 숫자
 https://programmers.co.kr/learn/courses/30/lessons/12954
 
