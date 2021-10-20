@@ -51,6 +51,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42895
 N진수 게임
 https://programmers.co.kr/learn/courses/30/lessons/17687
 
+String
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi#none
+
 Summation
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1lwyh6WPwDFARC&categoryId=AW1lwyh6WPwDFARC&categoryType=CODE
 
