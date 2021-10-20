@@ -102,6 +102,9 @@ https://programmers.co.kr/learn/courses/30/lessons/76502
 구독자 전쟁
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCXV_qVgkDFAWv
 
+균형점
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15MeBKAOgCFAYD#none
+
 기능개발
 https://programmers.co.kr/learn/courses/30/lessons/42586
 
