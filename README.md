@@ -42,6 +42,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV1
 K번째수
 https://programmers.co.kr/learn/courses/30/lessons/42748
 
+Magnetic
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD
+
 N-Queen
 https://programmers.co.kr/learn/courses/30/lessons/12952
 
