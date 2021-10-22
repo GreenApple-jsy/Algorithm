@@ -393,6 +393,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12931?language=cpp
 자연수 뒤집어 배열로 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12932
 
+작업순서
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18TrIqIwUCFAZN
+
 장애물 경주 난이도
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh
 
