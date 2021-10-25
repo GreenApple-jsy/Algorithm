@@ -258,6 +258,9 @@ https://programmers.co.kr/learn/courses/30/lessons/17681
 빠른 휴대전화 키패드
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW
 
+사칙연산
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141J8KAIcCFAYD
+
 삼각 달팽이
 https://programmers.co.kr/learn/courses/30/lessons/68645
 
