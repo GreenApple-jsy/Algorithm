@@ -71,13 +71,19 @@ int main() {
     for (int T = 1; T <= 10; ++T) {
         ListNode* ptr = &head;
         init();
+
         cin >> num;
+
         for (int i = 1; i <= num; ++i) {
             cin >> input;
-            ptr->next = LinkedList[bufferCount++].myAlloc(input, ptr, ptr->next);
+
+            // 노드 생성 후 연결
+            ptr->next = LinkedList[bufferCount++].myAlloc(input, ptr, ptr->next); 
             ptr = ptr->next;
         }
+
         cin >> num;
+
         for (int i = 1; i <= num; ++i) {
             cin >> c;
             if (c == 'I') {
@@ -105,13 +111,16 @@ int main() {
                 }
             }
         }
-        cout << "#" << T;
+
         ptr = head.next;
+
+        cout << "#" << T;
         for (int i = 0; i < 10; ++i) {
             cout << " " << ptr->data;
             ptr = ptr->next;
         }
         cout << "\n";
+
     }
     return 0;
 }
