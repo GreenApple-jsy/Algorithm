@@ -204,6 +204,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42840?language=cpp
 무지의 먹방 라이브
 https://programmers.co.kr/learn/courses/30/lessons/42891
 
+문자열 교집합
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV-Un3G64SUDFAXr
+
 문자열 내 마음대로 정렬하기
 https://programmers.co.kr/learn/courses/30/lessons/12915
 
