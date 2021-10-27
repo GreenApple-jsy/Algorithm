@@ -10,13 +10,14 @@ struct info {
 	int y;
 };
 
-int map[MAX][MAX];
-int dist[MAX][MAX];
-info p_queue[QUEUE_MAX];
+int map[MAX][MAX]; //입력받는 보드
+int dist[MAX][MAX]; //누적 거리 저장
+info p_queue[QUEUE_MAX]; // priority queue
 int q_size;
 int min_distance;
 int N;
 
+//priority queue push
 void q_push(info value) {
 	if (q_size > QUEUE_MAX)
 		return;
@@ -33,6 +34,7 @@ void q_push(info value) {
 	q_size++;
 }
 
+//priority queue pop
 info q_pop() {
 	if (q_size <= 0)
 		return { -1, 0, 0 };
@@ -60,6 +62,7 @@ info q_pop() {
 	return value;
 }
 
+// 다익스트라 알고리즘
 void dijkstra() {
 	while (q_size > 0) {
 		info i = q_pop();
