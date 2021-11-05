@@ -69,6 +69,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV1
 x만큼 간격이 있는 n개의 숫자
 https://programmers.co.kr/learn/courses/30/lessons/12954
 
+가장 가까운 두 점의 거리
+https://www.acmicpc.net/problem/5620
+
 가장 긴 팰린드롬
 https://programmers.co.kr/learn/courses/30/lessons/12904
 
