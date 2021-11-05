@@ -79,17 +79,13 @@ void ConvexHull(stack <Point> &st) {
 }
 
 int main() {
-	int T, N;
-	cin >> T;
-	for (int tc = 1; tc <= T; ++tc) {
-		stack <Point> st;
-		cin >> N;
-		points.resize(N);
-		for (int n = 0; n < N; ++n)
-			cin >> points[n].x >> points[n].y;
-		ConvexHull(st);
-		cout << "#" << tc << " " << st.size() << endl;
-	}
-
+	int N;
+    	stack <Point> st;
+	cin >> N;
+	points.resize(N);
+	for (int n = 0; n < N; ++n)
+		cin >> points[n].x >> points[n].y;
+	ConvexHull(st);
+	cout << st.size() << endl;
 	return 0;
 }
