@@ -27,6 +27,9 @@ https://programmers.co.kr/learn/courses/30/lessons/84325
 8주차_최소직사각형
 https://programmers.co.kr/learn/courses/30/lessons/86491
 
+Counting Inversions
+https://www.acmicpc.net/problem/10090
+
 GNS
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD
 
