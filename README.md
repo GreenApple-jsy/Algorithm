@@ -105,6 +105,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12907
 경주로 건설
 https://programmers.co.kr/learn/courses/30/lessons/67259
 
+고층 빌딩
+https://www.acmicpc.net/problem/1328
+
 괄호 변환
 https://programmers.co.kr/learn/courses/30/lessons/60058
 
