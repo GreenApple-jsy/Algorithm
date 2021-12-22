@@ -20,6 +20,7 @@ void DFS(int pos, int &cnt) {
     }
 }
 
+//두 송전탑 그룹 간의 개수 차이 계산
 void getDiff(int a, int b) {
     int g1_cnt = 0, g2_cnt = 0;
     DFS(a, g1_cnt);
