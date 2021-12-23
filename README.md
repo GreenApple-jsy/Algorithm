@@ -69,6 +69,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1
 View
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh
 
+n^2 배열 자르기
+https://programmers.co.kr/learn/courses/30/lessons/87390
+
 x만큼 간격이 있는 n개의 숫자
 https://programmers.co.kr/learn/courses/30/lessons/12954
 
