@@ -132,6 +132,9 @@ https://programmers.co.kr/learn/courses/30/lessons/42586
 기둥과 보 설치
 https://programmers.co.kr/learn/courses/30/lessons/60061?language=cpp
 
+나머지가 1이 되는 수 찾기
+https://programmers.co.kr/learn/courses/30/lessons/87389
+
 내적
 https://programmers.co.kr/learn/courses/30/lessons/70128
 
