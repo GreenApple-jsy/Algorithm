@@ -78,6 +78,9 @@ https://leetcode.com/problems/two-sum/
 View
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh
 
+Virtual Functions
+https://www.hackerrank.com/challenges/virtual-functions/problem?h_r=next-challenge&h_v=zen
+
 n^2 배열 자르기
 https://programmers.co.kr/learn/courses/30/lessons/87390
 
