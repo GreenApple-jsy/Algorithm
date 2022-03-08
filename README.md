@@ -30,6 +30,9 @@ https://programmers.co.kr/learn/courses/30/lessons/86491
 Counting Inversions
 https://www.acmicpc.net/problem/10090
 
+Exceptional Server
+https://www.hackerrank.com/challenges/exceptional-server/problem
+
 GNS
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD
 
