@@ -36,6 +36,9 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV1
 H-index
 https://programmers.co.kr/learn/courses/30/lessons/42747
 
+Inherited Code
+https://www.hackerrank.com/challenges/inherited-code/problem
+
 JadenCase 문자열 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12951
 
